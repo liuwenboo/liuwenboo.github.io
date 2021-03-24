@@ -8,7 +8,7 @@
 
 # Java并发
 
-[基础](基础.md)
+[基础](并发/基础.md)
 
 [高级](并发/高级.md)（未完）
 
@@ -16,6 +16,6 @@
 
 [Hadoop](大数据/Hadoop.md)
 
-[HDFS](大数据HDFS.md)
+[HDFS](大数据/HDFS.md)
 
 [MapReduce](大数据/MapReduce.md)（未完）
